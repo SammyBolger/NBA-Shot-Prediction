@@ -26,7 +26,7 @@ Example of the raw data:
 
 ## 🔍 EDA (Exploratory Data Analysis)
 
-We performed visual and statistical analysis to understand the features most associated with shot success.
+I performed visual and statistical analysis to understand the features most associated with shot success.
 
 - **Heatmap of Correlations**  
   ![Heatmap](screenshots/heatmap.png)
