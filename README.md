@@ -17,7 +17,6 @@ Build a machine learning model to predict whether a given shot in the 2016–17 
 ## 📂 Dataset
 
 - Source: [Kaggle - NBA 2016-17 Shot Log](https://www.kaggle.com/wh0801/NBA-16-17-regular-season-shot-log)
-- Local file in repo: `data/shot_log_all_teams.csv`
 
 Example of the raw data:
 
@@ -32,7 +31,7 @@ We performed visual and statistical analysis to understand the features most ass
 - **Heatmap of Correlations**  
   ![Heatmap](screenshots/heatmap.png)
 
-- **Shot Chart by Location**  
+- **Shot Chart by Location per Team**  
   ![Shot Chart](screenshots/shotchart.png)
 
 ---
