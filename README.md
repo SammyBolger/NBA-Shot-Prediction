@@ -1,10 +1,10 @@
 # NBA-Shot-Prediction
 
-# NBA Shot Prediction
-
 ![NBA Logo](https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg)
 
-Inspired by a [TED Talk on NBA analytics](https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves?language=en) and a sense of nostalgia for one of my favorite NBA seasons, this project dives into the world of basketball data and machine learning. As an avid sports fan, I wanted to explore how predictive modeling could capture the randomness and rhythm of the game—and see how it’s evolved over the years.
+This project was inspired by my deep-rooted love for basketball and nostalgia for one of my favorite NBA seasons. As an avid sports fan, I’ve always been fascinated by how the game has evolved over time. I wanted to take a data-driven look at how player behavior and shot selection have changed, and explore whether machine learning could accurately predict shot outcomes using real in-game data. The project allowed me to combine my passion for sports with my technical skills in data science to uncover patterns behind some of basketball’s most exciting moments.
+
+Using a detailed dataset from Kaggle that captured every shot from the 2016–2017 NBA regular season, I explored a range of machine learning models to predict shot outcomes based on factors like player, defender distance, shot location, and time remaining. This season held special meaning to me, so it was exciting to dive into the data and see what trends the numbers revealed when viewed through the lens of predictive analytics.
 
 ---
 
