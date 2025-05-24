@@ -1,1 +1,1 @@
-# NBA-Shot-Prediction-2016-2017-
+# NBA-Shot-Prediction
