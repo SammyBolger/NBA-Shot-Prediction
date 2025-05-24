@@ -21,7 +21,7 @@ Build a machine learning model to predict whether a given shot in the 2016–17 
 
 Example of the raw data:
 
-![Data Preview](./data.png)
+![Data Preview](screenshots/data.png)
 
 ---
 
@@ -30,10 +30,10 @@ Example of the raw data:
 We performed visual and statistical analysis to understand the features most associated with shot success.
 
 - **Heatmap of Correlations**  
-  ![Heatmap](./heatmap.png)
+  ![Heatmap](screenshots/heatmap.png)
 
 - **Shot Chart by Location**  
-  ![Shot Chart](./shotchart.png)
+  ![Shot Chart](screenshots/shotchart.png)
 
 ---
 
@@ -42,13 +42,13 @@ We performed visual and statistical analysis to understand the features most ass
 We experimented with several classification models to predict shot outcomes:
 
 - Logistic Regression  
-  ![Logistic Regression](./logisticregression.png)
+  ![Logistic Regression](screenshots/logisticregression.png)
 
 - Naive Bayes  
-  ![Naive Bayes](./naivebayes.png)
+  ![Naive Bayes](screenshots/naivebayes.png)
 
 - Random Forest  
-  ![Random Forest](./randomforestclassifier.png)
+  ![Random Forest](screenshots/randomforestclassifier.png)
 
 **Best model:** Random Forest  
 **Accuracy:** ~67%
