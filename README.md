@@ -54,6 +54,17 @@ We experimented with several classification models to predict shot outcomes:
 
 ---
 
+## 🧰 Tech Stack
+
+- **Python** – Core programming language used for data analysis and modeling  
+- **Jupyter Notebook** – Interactive development and exploration  
+- **pandas** – Data loading, cleaning, and manipulation  
+- **numpy** – Numerical operations and array structures  
+- **matplotlib** & **seaborn** – Data visualization and exploratory data analysis  
+- **scikit-learn** – Machine learning algorithms and model evaluation 
+
+---
+
 ## 🎯 Conclusion
 
 Despite tuning and testing various models, results plateaued around 66–67% accuracy. This may reflect the unpredictable nature of basketball, where even perfect shots don’t always fall.
